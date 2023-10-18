@@ -3,7 +3,7 @@
  * Auth: Elvis Ezekiel Ogbeda
  */
 
-#include "shell.h"
+#include <shell.h>
 #include <unistd.h>
 
 /**
